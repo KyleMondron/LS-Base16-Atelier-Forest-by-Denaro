@@ -702,7 +702,7 @@ _____________________________
     background-color: var(--base0B);
 }
 .dark-theme .ls-block:not(:focus-within) .bullet{
-    background-color: var(--base0A);
+    background-color: transparent;
 }
 
 .dark-theme .block-ref {
